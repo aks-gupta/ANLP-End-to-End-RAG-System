@@ -1,0 +1,533 @@
+Match: Minnesota vs Pittsburgh Penguins
+Date: Tuesday, October 29
+Time: 7:00 PM EDT
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Anaheim vs Pittsburgh Penguins
+Date: Thursday, October 31
+Time: 7:00 PM EDT
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Montréal vs Pittsburgh Penguins
+Date: Saturday, November 2
+Time: 7:00 PM EDT
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Pittsburgh Penguins vs New York
+Date: Tuesday, November 5
+Time: 7:30 PM EST
+Location: Away
+
+
+Match: Pittsburgh Penguins vs Carolina
+Date: Thursday, November 7
+Time: 7:00 PM EST
+Location: Away
+
+
+Match: Pittsburgh Penguins vs Washington
+Date: Friday, November 8
+Time: 7:30 PM EST
+Location: Away
+
+
+Match: Dallas vs Pittsburgh Penguins
+Date: Monday, November 11
+Time: 7:00 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Detroit vs Pittsburgh Penguins
+Date: Wednesday, November 13
+Time: 7:30 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Pittsburgh Penguins vs Columbus
+Date: Friday, November 15
+Time: 7:00 PM EST
+Location: Away
+
+
+Match: San Jose vs Pittsburgh Penguins
+Date: Saturday, November 16
+Time: 7:00 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Tampa Bay vs Pittsburgh Penguins
+Date: Tuesday, November 19
+Time: 7:00 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Winnipeg vs Pittsburgh Penguins
+Date: Friday, November 22
+Time: 7:00 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Utah vs Pittsburgh Penguins
+Date: Saturday, November 23
+Time: 7:00 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Vancouver vs Pittsburgh Penguins
+Date: Wednesday, November 27
+Time: 7:30 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Pittsburgh Penguins vs Boston
+Date: Friday, November 29
+Time: 6:30 PM EST
+Location: Away
+
+
+Match: Calgary vs Pittsburgh Penguins
+Date: Saturday, November 30
+Time: 7:00 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Florida vs Pittsburgh Penguins
+Date: Tuesday, December 3
+Time: 7:00 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Pittsburgh Penguins vs New York
+Date: Friday, December 6
+Time: 7:30 PM EST
+Location: Away
+
+
+Match: Toronto vs Pittsburgh Penguins
+Date: Saturday, December 7
+Time: 7:00 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Colorado vs Pittsburgh Penguins
+Date: Tuesday, December 10
+Time: 7:00 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Pittsburgh Penguins vs Montréal
+Date: Thursday, December 12
+Time: 7:00 PM EST
+Location: Away
+
+
+Match: Pittsburgh Penguins vs Ottawa
+Date: Saturday, December 14
+Time: 7:00 PM EST
+Location: Away
+
+
+Match: Los Angeles vs Pittsburgh Penguins
+Date: Tuesday, December 17
+Time: 7:00 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Pittsburgh Penguins vs Nashville
+Date: Thursday, December 19
+Time: 8:00 PM EST
+Location: Away
+
+
+Match: Pittsburgh Penguins vs New Jersey
+Date: Saturday, December 21
+Time: 7:00 PM EST
+Location: Away
+
+
+Match: Philadelphia vs Pittsburgh Penguins
+Date: Monday, December 23
+Time: 7:00 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Pittsburgh Penguins vs New York
+Date: Saturday, December 28
+Time: 7:30 PM EST
+Location: Away
+
+
+Match: New York vs Pittsburgh Penguins
+Date: Sunday, December 29
+Time: 5:30 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Pittsburgh Penguins vs Detroit
+Date: Tuesday, December 31
+Time: 8:00 PM EST
+Location: Away
+
+
+Match: Pittsburgh Penguins vs Florida
+Date: Friday, January 3
+Time: 7:00 PM EST
+Location: Away
+
+
+Match: Pittsburgh Penguins vs Carolina
+Date: Sunday, January 5
+Time: 6:00 PM EST
+Location: Away
+
+
+Match: Columbus vs Pittsburgh Penguins
+Date: Tuesday, January 7
+Time: 7:00 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Edmonton vs Pittsburgh Penguins
+Date: Thursday, January 9
+Time: 7:00 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Ottawa vs Pittsburgh Penguins
+Date: Saturday, January 11
+Time: 4:00 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Tampa Bay vs Pittsburgh Penguins
+Date: Sunday, January 12
+Time: 5:00 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Seattle vs Pittsburgh Penguins
+Date: Tuesday, January 14
+Time: 7:00 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Pittsburgh Penguins vs Buffalo
+Date: Friday, January 17
+Time: 7:00 PM EST
+Location: Away
+
+
+Match: Pittsburgh Penguins vs Washington
+Date: Saturday, January 18
+Time: 7:00 PM EST
+Location: Away
+
+
+Match: Pittsburgh Penguins vs Los Angeles
+Date: Monday, January 20
+Time: 10:30 PM EST
+Location: Away
+
+
+Match: Pittsburgh Penguins vs Anaheim
+Date: Thursday, January 23
+Time: 10:00 PM EST
+Location: Away
+
+
+Match: Pittsburgh Penguins vs Seattle
+Date: Saturday, January 25
+Time: 4:00 PM EST
+Location: Away
+
+
+Match: Pittsburgh Penguins vs San Jose
+Date: Monday, January 27
+Time: 10:30 PM EST
+Location: Away
+
+
+Match: Pittsburgh Penguins vs Utah
+Date: Wednesday, January 29
+Time: 9:30 PM EST
+Location: Away
+
+
+Match: Nashville vs Pittsburgh Penguins
+Date: Saturday, February 1
+Time: 7:00 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: New Jersey vs Pittsburgh Penguins
+Date: Tuesday, February 4
+Time: 7:00 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Pittsburgh Penguins vs New York
+Date: Friday, February 7
+Time: 7:00 PM EST
+Location: Away
+
+
+Match: Pittsburgh Penguins vs Philadelphia
+Date: Saturday, February 8
+Time: 7:00 PM EST
+Location: Away
+
+
+Match: Washington vs Pittsburgh Penguins
+Date: Saturday, February 22
+Time: 3:00 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Pittsburgh Penguins vs Anaheim
+Date: Thursday, January 23
+Time: 10:00 PM EST
+Location: Away
+
+
+Match: Pittsburgh Penguins vs Seattle
+Date: Saturday, January 25
+Time: 4:00 PM EST
+Location: Away
+
+
+Match: Pittsburgh Penguins vs San Jose
+Date: Monday, January 27
+Time: 10:30 PM EST
+Location: Away
+
+
+Match: New York vs Pittsburgh Penguins
+Date: Sunday, February 23
+Time: 3:30 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Pittsburgh Penguins vs Philadelphia
+Date: Tuesday, February 25
+Time: 7:00 PM EST
+Location: Away
+
+
+Match: Philadelphia vs Pittsburgh Penguins
+Date: Thursday, February 27
+Time: 7:00 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Boston vs Pittsburgh Penguins
+Date: Saturday, March 1
+Time: 3:00 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Toronto vs Pittsburgh Penguins
+Date: Sunday, March 2
+Time: 1:00 PM EST
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Pittsburgh Penguins vs Colorado
+Date: Tuesday, March 4
+Time: 9:00 PM EST
+Location: Away
+
+
+Match: St. Louis vs Pittsburgh Penguins
+Date: Thursday, March 13
+Time: 7:00 PM EDT
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: New Jersey vs Pittsburgh Penguins
+Date: Saturday, March 15
+Time: 3:00 PM EDT
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: New York vs Pittsburgh Penguins
+Date: Tuesday, March 18
+Time: 7:00 PM EDT
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Columbus vs Pittsburgh Penguins
+Date: Friday, March 21
+Time: 7:00 PM EDT
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Pittsburgh Penguins vs Florida
+Date: Sunday, March 23
+Time: 6:00 PM EDT
+Location: Away
+
+
+Match: Pittsburgh Penguins vs Tampa Bay
+Date: Tuesday, March 25
+Time: 7:00 PM EDT
+Location: Away
+
+
+Match: Pittsburgh Penguins vs Buffalo
+Date: Thursday, March 27
+Time: 7:00 PM EDT
+Location: Away
+
+
+Match: Ottawa vs Pittsburgh Penguins
+Date: Sunday, March 30
+Time: 5:00 PM EDT
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Pittsburgh Penguins vs St. Louis
+Date: Thursday, April 3
+Time: 8:00 PM EDT
+Location: Away
+
+
+Match: Pittsburgh Penguins vs Dallas
+Date: Saturday, April 5
+Time: 3:00 PM EDT
+Location: Away
+
+
+Match: Pittsburgh Penguins vs Chicago
+Date: Sunday, April 6
+Time: 6:00 PM EDT
+Location: Away
+
+
+Match: Chicago vs Pittsburgh Penguins
+Date: Tuesday, April 8
+Time: 7:00 PM EDT
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Pittsburgh Penguins vs New Jersey
+Date: Friday, April 11
+Time: 7:00 PM EDT
+Location: Away
+
+
+Match: Boston vs Pittsburgh Penguins
+Date: Sunday, April 13
+Time: 3:30 PM EDT
+Location: PPG Paints Arena Pittsburgh
+
+
+Match: Washington vs Pittsburgh Penguins
+Date: Thursday, April 17
+Time: 7:00 PM EDT
+Location: PPG Paints Arena Pittsburgh
+
+
+[{'Event': 'Pirates at Orioles', 'Date': '02/22/25', 'Location': 'Ed Smith Stadium - Sarasota'}, {'Event': 'Twins at Pirates', 'Date': '02/23/25', 'Location': 'LECOM Park - Bradenton'}, {'Event': 'Pirates at Phillies', 'Date': '02/24/25', 'Location': 'BayCare Ballpark - Clearwater'}, {'Event': 'Braves at Pirates', 'Date': '02/25/25', 'Location': 'LECOM Park - Bradenton'}, {'Event': 'Orioles at Pirates', 'Date': '02/26/25', 'Location': 'LECOM Park - Bradenton'}, {'Event': 'Pirates at Braves', 'Date': '02/26/25', 'Location': 'CoolToday Park - North Port'}, {'Event': 'Pirates at Twins', 'Date': '02/27/25', 'Location': 'Lee Health Sports Complex - Fort Myers'}, {'Event': 'Rays at Pirates', 'Date': '02/28/25', 'Location': 'LECOM Park - Bradenton'}, {'Event': 'Pirates at Orioles', 'Date': '03/01/25', 'Location': 'Ed Smith Stadium - Sarasota'}, {'Event': 'Tigers at Pirates', 'Date': '03/02/25', 'Location': 'LECOM Park - Bradenton'}, {'Event': 'Pirates at Yankees', 'Date': '03/03/25', 'Location': 'George M. Steinbrenner Field - Tampa'}, {'Event': 'Red Sox at Pirates', 'Date': '03/04/25', 'Location': 'LECOM Park - Bradenton'}, {'Event': 'Blue Jays at Pirates', 'Date': '03/05/25', 'Location': 'LECOM Park - Bradenton'}, {'Event': 'Pirates at Orioles', 'Date': '03/06/25', 'Location': 'Ed Smith Stadium - Sarasota'}, {'Event': 'Phillies at Pirates', 'Date': '03/07/25', 'Location': 'LECOM Park - Bradenton'}, {'Event': 'Pirates at Braves', 'Date': '03/08/25', 'Location': 'CoolToday Park - North Port'}, {'Event': 'Pirates at Tigers', 'Date': '03/09/25', 'Location': 'Publix Field at Joker Marchant Stadium - Lakeland'}, {'Event': 'Orioles at Pirates', 'Date': '03/10/25', 'Location': 'LECOM Park - Bradenton'}, {'Event': 'Yankees at Pirates', 'Date': '03/11/25', 'Location': 'LECOM Park - Bradenton'}, {'Event': 'Pirates at Twins', 'Date': '03/13/25', 'Location': 'Lee Health Sports Complex - Fort Myers'}, {'Event': 'Tigers at Pirates', 'Date': '03/14/25', 'Location': 'LECOM Park - Bradenton'}, {'Event': 'Orioles at Pirates', 'Date': '03/15/25', 'Location': 'LECOM Park - Bradenton'}, {'Event': 'Pirates at Yankees', 'Date': '03/16/25', 'Location': 'George M. Steinbrenner Field - Tampa'}, {'Event': 'Pirates at Tigers', 'Date': '03/17/25', 'Location': 'Publix Field at Joker Marchant Stadium - Lakeland'}, {'Event': 'Twins at Pirates', 'Date': '03/17/25', 'Location': 'LECOM Park - Bradenton'}, {'Event': 'Phillies at Pirates', 'Date': '03/18/25', 'Location': 'LECOM Park - Bradenton'}, {'Event': 'Pirates at Rays', 'Date': '03/19/25', 'Location': 'Charlotte Sports Park - Port Charlotte'}, {'Event': 'Pirates at Red Sox', 'Date': '03/21/25', 'Location': 'JetBlue Park - Ft. Myers'}, {'Event': 'Orioles at Pirates', 'Date': '03/22/25', 'Location': 'LECOM Park - Bradenton'}, {'Event': 'Pirates at Blue Jays', 'Date': '03/23/25', 'Location': 'TD Ballpark - Dunedin'}, {'Event': 'Pirates at Twins', 'Date': '03/24/25', 'Location': 'Lee Health Sports Complex - Fort Myers'}, {'Event': 'Pirates at Marlins', 'Date': '03/27/25', 'Location': 'loanDepot park - Miami'}, {'Event': 'Pirates at Marlins', 'Date': '03/28/25', 'Location': 'loanDepot park - Miami'}, {'Event': 'Pirates at Marlins', 'Date': '03/29/25', 'Location': 'loanDepot park - Miami'}, {'Event': 'Pirates at Marlins', 'Date': '03/30/25', 'Location': 'loanDepot park - Miami'}, {'Event': 'Pirates at Rays', 'Date': '03/31/25', 'Location': 'Tropicana Field - St. Petersburg'}, {'Event': 'Pirates at Rays', 'Date': '04/01/25', 'Location': 'Tropicana Field - St. Petersburg'}, {'Event': 'Pirates at Rays', 'Date': '04/02/25', 'Location': 'Tropicana Field - St. Petersburg'}, {'Event': 'Yankees at Pirates', 'Date': '04/04/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Yankees at Pirates', 'Date': '04/05/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Yankees at Pirates', 'Date': '04/06/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Cardinals at Pirates', 'Date': '04/07/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Cardinals at Pirates', 'Date': '04/08/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Cardinals at Pirates', 'Date': '04/09/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Pirates at Reds', 'Date': '04/11/25', 'Location': 'Great American Ball Park - Cincinnati'}, {'Event': 'Pirates at Reds', 'Date': '04/12/25', 'Location': 'Great American Ball Park - Cincinnati'}, {'Event': 'Pirates at Reds', 'Date': '04/13/25', 'Location': 'Great American Ball Park - Cincinnati'}, {'Event': 'Nationals at Pirates', 'Date': '04/14/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Nationals at Pirates', 'Date': '04/15/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Nationals at Pirates', 'Date': '04/16/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Nationals at Pirates', 'Date': '04/17/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Guardians at Pirates', 'Date': '04/18/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Guardians at Pirates', 'Date': '04/19/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Guardians at Pirates', 'Date': '04/20/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Pirates at Angels', 'Date': '04/22/25', 'Location': 'Angel Stadium - Anaheim'}, {'Event': 'Pirates at Angels', 'Date': '04/23/25', 'Location': 'Angel Stadium - Anaheim'}, {'Event': 'Pirates at Angels', 'Date': '04/24/25', 'Location': 'Angel Stadium - Anaheim'}, {'Event': 'Pirates at Dodgers', 'Date': '04/25/25', 'Location': 'Dodger Stadium - Los Angeles'}, {'Event': 'Pirates at Dodgers', 'Date': '04/26/25', 'Location': 'Dodger Stadium - Los Angeles'}, {'Event': 'Pirates at Dodgers', 'Date': '04/27/25', 'Location': 'Dodger Stadium - Los Angeles'}, {'Event': 'Cubs at Pirates', 'Date': '04/29/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Cubs at Pirates', 'Date': '04/30/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Cubs at Pirates', 'Date': '05/01/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Padres at Pirates', 'Date': '05/02/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Padres at Pirates', 'Date': '05/03/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Padres at Pirates', 'Date': '05/04/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Pirates at Cardinals', 'Date': '05/05/25', 'Location': 'Busch Stadium - St. Louis'}, {'Event': 'Pirates at Cardinals', 'Date': '05/06/25', 'Location': 'Busch Stadium - St. Louis'}, {'Event': 'Pirates at Cardinals', 'Date': '05/07/25', 'Location': 'Busch Stadium - St. Louis'}, {'Event': 'Braves at Pirates', 'Date': '05/09/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Braves at Pirates', 'Date': '05/10/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Braves at Pirates', 'Date': '05/11/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Pirates at Mets', 'Date': '05/12/25', 'Location': 'Citi Field - Flushing'}, {'Event': 'Pirates at Mets', 'Date': '05/13/25', 'Location': 'Citi Field - Flushing'}, {'Event': 'Pirates at Mets', 'Date': '05/14/25', 'Location': 'Citi Field - Flushing'}, {'Event': 'Pirates at Phillies', 'Date': '05/16/25', 'Location': 'Citizens Bank Park - Philadelphia'}, {'Event': 'Pirates at Phillies', 'Date': '05/17/25', 'Location': 'Citizens Bank Park - Philadelphia'}, {'Event': 'Pirates at Phillies', 'Date': '05/18/25', 'Location': 'Citizens Bank Park - Philadelphia'}, {'Event': 'Reds at Pirates', 'Date': '05/19/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Reds at Pirates', 'Date': '05/20/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Reds at Pirates', 'Date': '05/21/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Brewers at Pirates', 'Date': '05/22/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Brewers at Pirates', 'Date': '05/23/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Brewers at Pirates', 'Date': '05/24/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Brewers at Pirates', 'Date': '05/25/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Pirates at D-backs', 'Date': '05/26/25', 'Location': 'Chase Field - Phoenix'}, {'Event': 'Pirates at D-backs', 'Date': '05/27/25', 'Location': 'Chase Field - Phoenix'}, {'Event': 'Pirates at D-backs', 'Date': '05/28/25', 'Location': 'Chase Field - Phoenix'}, {'Event': 'Pirates at Padres', 'Date': '05/30/25', 'Location': 'Petco Park - San Diego'}, {'Event': 'Pirates at Padres', 'Date': '05/31/25', 'Location': 'Petco Park - San Diego'}, {'Event': 'Pirates at Padres', 'Date': '06/01/25', 'Location': 'Petco Park - San Diego'}, {'Event': 'Astros at Pirates', 'Date': '06/03/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Astros at Pirates', 'Date': '06/04/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Astros at Pirates', 'Date': '06/05/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Phillies at Pirates', 'Date': '06/06/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Phillies at Pirates', 'Date': '06/07/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Phillies at Pirates', 'Date': '06/08/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Marlins at Pirates', 'Date': '06/09/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Marlins at Pirates', 'Date': '06/10/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Marlins at Pirates', 'Date': '06/11/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Pirates at Cubs', 'Date': '06/12/25', 'Location': 'Wrigley Field - Chicago'}, {'Event': 'Pirates at Cubs', 'Date': '06/13/25', 'Location': 'Wrigley Field - Chicago'}, {'Event': 'Pirates at Cubs', 'Date': '06/14/25', 'Location': 'Wrigley Field - Chicago'}, {'Event': 'Pirates at Cubs', 'Date': '06/15/25', 'Location': 'Wrigley Field - Chicago'}, {'Event': 'Pirates at Tigers', 'Date': '06/17/25', 'Location': 'Comerica Park - Detroit'}, {'Event': 'Pirates at Tigers', 'Date': '06/18/25', 'Location': 'Comerica Park - Detroit'}, {'Event': 'Pirates at Tigers', 'Date': '06/19/25', 'Location': 'Comerica Park - Detroit'}, {'Event': 'Rangers at Pirates', 'Date': '06/20/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Rangers at Pirates', 'Date': '06/21/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Rangers at Pirates', 'Date': '06/22/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Pirates at Brewers', 'Date': '06/23/25', 'Location': 'American Family Field - Milwaukee'}, {'Event': 'Pirates at Brewers', 'Date': '06/24/25', 'Location': 'American Family Field - Milwaukee'}, {'Event': 'Pirates at Brewers', 'Date': '06/25/25', 'Location': 'American Family Field - Milwaukee'}, {'Event': 'Mets at Pirates', 'Date': '06/27/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Mets at Pirates', 'Date': '06/28/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Mets at Pirates', 'Date': '06/29/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Cardinals at Pirates', 'Date': '06/30/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Cardinals at Pirates', 'Date': '07/01/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Cardinals at Pirates', 'Date': '07/02/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Pirates at Mariners', 'Date': '07/04/25', 'Location': 'T-Mobile Park - Seattle'}, {'Event': 'Pirates at Mariners', 'Date': '07/05/25', 'Location': 'T-Mobile Park - Seattle'}, {'Event': 'Pirates at Mariners', 'Date': '07/06/25', 'Location': 'T-Mobile Park - Seattle'}, {'Event': 'Pirates at Royals', 'Date': '07/07/25', 'Location': 'Kauffman Stadium - Kansas City'}, {'Event': 'Pirates at Royals', 'Date': '07/08/25', 'Location': 'Kauffman Stadium - Kansas City'}, {'Event': 'Pirates at Royals', 'Date': '07/09/25', 'Location': 'Kauffman Stadium - Kansas City'}, {'Event': 'Pirates at Twins', 'Date': '07/11/25', 'Location': 'Target Field - Minneapolis'}, {'Event': 'Pirates at Twins', 'Date': '07/12/25', 'Location': 'Target Field - Minneapolis'}, {'Event': 'Pirates at Twins', 'Date': '07/13/25', 'Location': 'Target Field - Minneapolis'}, {'Event': 'White Sox at Pirates', 'Date': '07/18/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'White Sox at Pirates', 'Date': '07/19/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'White Sox at Pirates', 'Date': '07/20/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Tigers at Pirates', 'Date': '07/21/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Tigers at Pirates', 'Date': '07/22/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Tigers at Pirates', 'Date': '07/23/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'D-backs at Pirates', 'Date': '07/25/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'D-backs at Pirates', 'Date': '07/26/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'D-backs at Pirates', 'Date': '07/27/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Pirates at Giants', 'Date': '07/28/25', 'Location': 'Oracle Park - San Francisco'}, {'Event': 'Pirates at Giants', 'Date': '07/29/25', 'Location': 'Oracle Park - San Francisco'}, {'Event': 'Pirates at Giants', 'Date': '07/30/25', 'Location': 'Oracle Park - San Francisco'}, {'Event': 'Pirates at Rockies', 'Date': '08/01/25', 'Location': 'Coors Field - Denver'}, {'Event': 'Pirates at Rockies', 'Date': '08/02/25', 'Location': 'Coors Field - Denver'}, {'Event': 'Pirates at Rockies', 'Date': '08/03/25', 'Location': 'Coors Field - Denver'}, {'Event': 'Giants at Pirates', 'Date': '08/04/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Giants at Pirates', 'Date': '08/05/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Giants at Pirates', 'Date': '08/06/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Reds at Pirates', 'Date': '08/07/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Reds at Pirates', 'Date': '08/08/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Reds at Pirates', 'Date': '08/09/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Reds at Pirates', 'Date': '08/10/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Pirates at Brewers', 'Date': '08/11/25', 'Location': 'American Family Field - Milwaukee'}, {'Event': 'Pirates at Brewers', 'Date': '08/12/25', 'Location': 'American Family Field - Milwaukee'}, {'Event': 'Pirates at Brewers', 'Date': '08/13/25', 'Location': 'American Family Field - Milwaukee'}, {'Event': 'Pirates at Cubs', 'Date': '08/15/25', 'Location': 'Wrigley Field - Chicago'}, {'Event': 'Pirates at Cubs', 'Date': '08/16/25', 'Location': 'Wrigley Field - Chicago'}, {'Event': 'Pirates at Cubs', 'Date': '08/17/25', 'Location': 'Wrigley Field - Chicago'}, {'Event': 'Blue Jays at Pirates', 'Date': '08/18/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Blue Jays at Pirates', 'Date': '08/19/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Blue Jays at Pirates', 'Date': '08/20/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Rockies at Pirates', 'Date': '08/22/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Rockies at Pirates', 'Date': '08/23/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Rockies at Pirates', 'Date': '08/24/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Pirates at Cardinals', 'Date': '08/25/25', 'Location': 'Busch Stadium - St. Louis'}, {'Event': 'Pirates at Cardinals', 'Date': '08/26/25', 'Location': 'Busch Stadium - St. Louis'}, {'Event': 'Pirates at Cardinals', 'Date': '08/27/25', 'Location': 'Busch Stadium - St. Louis'}, {'Event': 'Pirates at Cardinals', 'Date': '08/28/25', 'Location': 'Busch Stadium - St. Louis'}, {'Event': 'Pirates at Red Sox', 'Date': '08/29/25', 'Location': 'Fenway Park - Boston'}, {'Event': 'Pirates at Red Sox', 'Date': '08/30/25', 'Location': 'Fenway Park - Boston'}, {'Event': 'Pirates at Red Sox', 'Date': '08/31/25', 'Location': 'Fenway Park - Boston'}, {'Event': 'Dodgers at Pirates', 'Date': '09/02/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Dodgers at Pirates', 'Date': '09/03/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Dodgers at Pirates', 'Date': '09/04/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Brewers at Pirates', 'Date': '09/05/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Brewers at Pirates', 'Date': '09/06/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Brewers at Pirates', 'Date': '09/07/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Pirates at Orioles', 'Date': '09/09/25', 'Location': 'Oriole Park at Camden Yards - Baltimore'}, {'Event': 'Pirates at Orioles', 'Date': '09/10/25', 'Location': 'Oriole Park at Camden Yards - Baltimore'}, {'Event': 'Pirates at Orioles', 'Date': '09/11/25', 'Location': 'Oriole Park at Camden Yards - Baltimore'}, {'Event': 'Pirates at Nationals', 'Date': '09/12/25', 'Location': 'Nationals Park - Washington'}, {'Event': 'Pirates at Nationals', 'Date': '09/13/25', 'Location': 'Nationals Park - Washington'}, {'Event': 'Pirates at Nationals', 'Date': '09/14/25', 'Location': 'Nationals Park - Washington'}, {'Event': 'Cubs at Pirates', 'Date': '09/15/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Cubs at Pirates', 'Date': '09/16/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Cubs at Pirates', 'Date': '09/17/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Athletics at Pirates', 'Date': '09/19/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Athletics at Pirates', 'Date': '09/20/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Athletics at Pirates', 'Date': '09/21/25', 'Location': 'PNC Park - Pittsburgh'}, {'Event': 'Pirates at Reds', 'Date': '09/23/25', 'Location': 'Great American Ball Park - Cincinnati'}, {'Event': 'Pirates at Reds', 'Date': '09/24/25', 'Location': 'Great American Ball Park - Cincinnati'}, {'Event': 'Pirates at Reds', 'Date': '09/25/25', 'Location': 'Great American Ball Park - Cincinnati'}, {'Event': 'Pirates at Braves', 'Date': '09/26/25', 'Location': 'Truist Park - Atlanta'}, {'Event': 'Pirates at Braves', 'Date': '09/27/25', 'Location': 'Truist Park - Atlanta'}, {'Event': 'Pirates at Braves', 'Date': '09/28/25', 'Location': 'Truist Park - Atlanta'}]
+
+
+Event: Pittsburgh Steelers vs. Atlanta Falcons
+Time: WEEK 1, WEEK 1, · Sun 09/08
+Location: Mercedes-Benz Stadium
+
+
+Event: Pittsburgh Steelers vs. Denver Broncos
+Time: WEEK 2, WEEK 2, · Sun 09/15
+Location: Empower Field at Mile High
+
+
+Event: Pittsburgh Steelers vs. Los Angeles Chargers
+Time: WEEK 3, WEEK 3, · Sun 09/22
+Location: Acrisure Stadium
+
+
+Event: Pittsburgh Steelers vs. Indianapolis Colts
+Time: WEEK 4, WEEK 4, · Sun 09/29
+Location: Lucas Oil Stadium
+
+
+Event: Pittsburgh Steelers vs. Dallas Cowboys
+Time: WEEK 5, WEEK 5, · Sun 10/06
+Location: Acrisure Stadium
+
+
+Event: Pittsburgh Steelers vs. Las Vegas Raiders
+Time: WEEK 6, · Sun 10/13, · 4:05 PM EDT
+Location: Allegiant Stadium
+
+
+Event: Pittsburgh Steelers vs. New York Jets
+Time: WEEK 7, · Sun 10/20, · 8:20 PM EDT
+Location: Acrisure Stadium
+
+
+Event: Pittsburgh Steelers vs. New York Giants
+Time: WEEK 8, · Mon 10/28, · 8:15 PM EDT
+Location: Acrisure Stadium
+
+
+Event: Pittsburgh Steelers vs. Washington Commanders
+Time: WEEK 10, · Sun 11/10, · 1:00 PM EST
+Location: Northwest Stadium
+
+
+Event: Pittsburgh Steelers vs. Baltimore Ravens
+Time: WEEK 11, · Sun 11/17, · 1:00 PM EST
+Location: Acrisure Stadium
+
+
+Event: Pittsburgh Steelers vs. Cleveland Browns
+Time: WEEK 12, · Thu 11/21, · 8:15 PM EST
+Location: Huntington Bank Field
+
+
+Event: Pittsburgh Steelers vs. Cincinnati Bengals
+Time: WEEK 13, · Sun 12/01, · 1:00 PM EST
+Location: Paycor Stadium
+
+
+Event: Pittsburgh Steelers vs. Cleveland Browns
+Time: WEEK 14, · Sun 12/08, · 1:00 PM EST
+Location: Acrisure Stadium
+
+
+Event: Pittsburgh Steelers vs. Philadelphia Eagles
+Time: WEEK 15, · Sun 12/15, · 4:25 PM EST
+Location: Lincoln Financial Field
+
+
+Event: Pittsburgh Steelers vs. Baltimore Ravens
+Time: WEEK 16, · Sat 12/21, · 4:30 PM EST
+Location: M&T Bank Stadium
+
+
+Event: Pittsburgh Steelers vs. Kansas City Chiefs
+Time: WEEK 17, · Wed 12/25, · 1:00 PM EST
+Location: Acrisure Stadium
+
+
+Event: Pittsburgh Steelers vs. Cincinnati Bengals
+Time: WEEK 18, · TBD, 
+Location: Acrisure Stadium
+
+
+Event: Pittsburgh Steelers vs. Houston Texans
+Time: WEEK 1, WEEK 1, · Fri 08/09
+Location: Acrisure Stadium
+
+
+Event: Pittsburgh Steelers vs. Buffalo Bills
+Time: WEEK 2, WEEK 2, · Sat 08/17
+Location: Acrisure Stadium
+
+
+Event: Pittsburgh Steelers vs. Detroit Lions
+Time: WEEK 3, WEEK 3, · Sat 08/24
+Location: Ford Field

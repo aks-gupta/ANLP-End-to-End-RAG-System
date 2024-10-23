@@ -24,7 +24,8 @@ ANLP-End-to-End-RAG-System/
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
-└── rag.py
+├── rag.py
+└── text_files/
 ```
 
 ## Setup
